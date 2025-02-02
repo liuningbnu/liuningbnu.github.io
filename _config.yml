@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "安徽 安庆"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "刘宁的主页"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "刘宁"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "刘宁"
+  pronouns         : # example: "He"  
+  bio              : "1995.02.25"
+  location         : "河南南阳"
+  employer         : "安庆师范大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ningliu@mail.bnu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
