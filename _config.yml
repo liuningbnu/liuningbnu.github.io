@@ -7,9 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "安徽 安庆"
 site_theme               : "default"
-title                    : "刘宁的主页"
+title                    : "刘宁"
 title_separator          : "-"
 name                     : &name "刘宁"
 description              : &description "personal description"
