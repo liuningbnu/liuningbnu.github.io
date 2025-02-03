@@ -1,5 +1,11 @@
-个人简介
-------
+---
+permalink: /
+title: "个人简介"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 嗨，你好！我是刘宁，北京师范大学理论物理博士。我的研究方向是量子气体，引力理论以及更广泛的物理系统。
 
