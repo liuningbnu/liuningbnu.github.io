@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-bio: "1995年2月25日"
-  avatar: "/assets/profile.png"  # 推荐使用assets目录
-  name: "刘宁"
-  pronouns: "他"  # 性别代词（可选）
+  bio              :  "1995年2月25日"
+  avatar           :  "/assets/profile.png" 
+  name             :  "刘宁"
+  pronouns         :  "他"  
   location         : "河南南阳"
   employer         : "北京师范大学"
-  uri              : # URL
+  uri              : 
   email            : "ningliu@mail.bnu.edu.cn" 
 
   # Academic websites
