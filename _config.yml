@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-avatar: /assets/images/profile.png  # 绝对路径
+avatar: /images/profile.png  # 绝对路径
   name             : "刘宁"
   pronouns         : # example: "He"  
   bio              : "1995.02.25"
