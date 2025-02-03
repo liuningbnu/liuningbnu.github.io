@@ -6,22 +6,22 @@
 
 main:
   - title: "作品"
-    url: /publications/
+    url: /https://liuningbnu.github.io/publications/
 
   - title: "谈话"
-    url: /talks/    
+    url: /https://liuningbnu.github.io/talks/    
 
   - title: "教学"
-    url: /teaching/    
+    url: /https://liuningbnu.github.io/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /https://liuningbnu.github.io/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /https://liuningbnu.github.io/year-archive/
     
   - title: "简历"
-    url: /cv/
+    url: /https://liuningbnu.github.io/cv/
     
   - title: "导引"
-    url: /markdown/
+    url: /https://liuningbnu.github.io/markdown/
