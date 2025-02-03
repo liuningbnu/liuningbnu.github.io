@@ -6,22 +6,22 @@
 
 main:
   - title: "作品"
-    url: /publications/
+    url: "/publications/"
 
   - title: "谈话"
-    url: /talks/    
+    url: "/talks/"    
 
   - title: "教学"
-    url: /teaching/    
+    url: "/teaching/"  
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: "/portfolio/"
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "/year-archive/"
     
   - title: "简历"
-    url: /cv/
+    url: "/cv/"
     
   - title: "导引"
-    url: /markdown/
+    url: "/markdown/"
