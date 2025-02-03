@@ -22,7 +22,7 @@ repository               :  "academicpages/academicpages.github.io"
 author:
   # Biographic information
   bio              :  "1995年2月25日"
-  avatar           :  "/assets/profile.png" 
+  avatar           :  "/images/profile.png" 
   name             :  "刘宁"
   pronouns         :  "他"  
   location         : "河南南阳"
