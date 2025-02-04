@@ -21,7 +21,6 @@ repository               :  "academicpages/academicpages.github.io"
 author:
   # Biographic information
   bio              :     ""
-  avatar           : "/images/profile.png"
   name             :  "刘宁"
   pronouns         :  ""# example: "she/her"  
   employer         :   "北京师范大学"
