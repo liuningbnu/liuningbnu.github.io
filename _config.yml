@@ -22,9 +22,8 @@ repository               :  "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           :  "profile.png"
-  name             :  "刘宁（Ning Liu）"
+  name             :  "刘宁"
   pronouns         :  # example: "she/her"  
-  bio              :  "1995年2月"
   employer         :   "北京师范大学"
   email            :   "ningliu@mail.bnu.edu.cn" 
 
