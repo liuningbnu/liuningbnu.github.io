@@ -6,13 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: center;">
-  <img src="/images/profile.png" alt="Editing a markdown file for a talk" style="width: 200px; height: auto;">
-</div>
 
-------
+
 嗨，你好！我是刘宁，出生于1995年，自幼热爱自然和物理，曾在读小学时自行制作过天文望远镜. 多年后在北京师范大学获**理论物理**博士学位. 目前在安庆师范大学从事大学物理教学和研究工作，硕士生导师，我的研究方向为<font color=Blue>量子气体</font>，<font color=Blue>引力理论</font>以及<font color=Blue>更广泛物理系统的理论</font>.
-
+<div style="text-align: center;">
+  <img src="/images/BEC.png" alt="Editing a markdown file for a talk" style="width: 300px; height: auto;">
+</div>
 
 
 教育背景
