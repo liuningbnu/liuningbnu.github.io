@@ -5,7 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
+# 强制保留自定义配置
+theme_overrides:
+  - bio
+  - avatar
+  - social
 # Basic Site Settings
 site_theme               :  "default"
 title                    :  "刘宁"
