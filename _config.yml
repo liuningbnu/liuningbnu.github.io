@@ -20,8 +20,8 @@ repository               :  "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  bio:     ""
-  avatar: "{{ '/images/profile.png' | absolute_url }}"
+  bio              :     ""
+  avatar           : "/images/profile.png"
   name             :  "刘宁"
   pronouns         :  ""# example: "she/her"  
   employer         :   "北京师范大学"
