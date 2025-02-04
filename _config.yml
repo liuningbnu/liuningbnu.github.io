@@ -5,11 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-# 强制保留自定义配置
-theme_overrides:
-  - bio
-  - avatar
-  - social
 # Basic Site Settings
 site_theme               :  "default"
 title                    :  "刘宁"
@@ -25,9 +20,10 @@ repository               :  "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  "/images/profile.png"
+  bio:     ""
+  avatar: "{{ '/images/profile.png' | absolute_url }}"
   name             :  "刘宁"
-  pronouns         :  # example: "she/her"  
+  pronouns         :  ""# example: "she/her"  
   employer         :   "北京师范大学"
   email            :   "ningliu@mail.bnu.edu.cn" 
 
