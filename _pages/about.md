@@ -10,7 +10,7 @@ redirect_from:
 
 嗨，你好！我是刘宁，出生于1995年，自幼热爱自然和物理，曾在读小学时自行制作过天文望远镜. 多年后在北京师范大学获**理论物理**博士学位. 目前在安庆师范大学从事大学物理教学和研究工作，硕士生导师，我的研究方向为<font color=Blue>量子气体</font>，<font color=Blue>引力理论</font>以及<font color=Blue>更广泛物理系统的理论</font>.
 <div style="text-align: center;">
-  <img src="/images/BEC.png" alt="Editing a markdown file for a talk" style="width: 300px; height: auto;">
+  <img src="/images/BEC.png" alt="Editing a markdown file for a talk" style="width: 400px; height: auto;">
 </div>
 
 
@@ -27,3 +27,6 @@ redirect_from:
 * 北京师范大学本科生课程优秀研究生助教 （2018）
 * 北京师范大学研究生学术创新奖二等奖（2021）
 * 北京师范大学博士研究生学业一等奖学金（2021）
+<div style="text-align: center;">
+  <img src="/images/obBEC.png" alt="Editing a markdown file for a talk" style="width: 400px; height: auto;">
+</div>
