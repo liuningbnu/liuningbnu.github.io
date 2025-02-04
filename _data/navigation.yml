@@ -1,27 +1,23 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
+---
 main:
-  - title: "论文"
-    url: "/publications/"
-
-  - title: "教学"
-    url: "/teaching/"  
-
-    - title: "活动"
-    url: "/talks/"    
-    
-  - title: "感悟"
-    url: "/portfolio/"
-        
-  - title: "日程"
-    url: "/year-archive/"
-    
-  - title: "简历"
-    url: "/cv/"
-    
-  - title: "导引"
-    url: "/markdown/"
+  - title: 首页
+    url: /
+  - title: 研究内容与成果
+    url: /publications/
+    children:
+      - title: 近期论文
+        url: /publications/#recent
+      - title: 全部列表
+        url: /publications/#full
+  - title: 教学
+    url: /teaching/
+  - title: 活动
+    url: /talks/
+  - title: 感悟
+    url: /portfolio/
+  - title: 日程
+    url: /year-archive/
+  - title: 简历
+    url: /cv/
+  - title: 导引
+    url: /markdown/
