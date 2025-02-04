@@ -5,19 +5,19 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "作品"
+  - title: "论文"
     url: "/publications/"
 
-  - title: "谈话"
+  - title: "获得"
     url: "/talks/"    
 
   - title: "教学"
     url: "/teaching/"  
     
-  - title: "Portfolio"
+  - title: "感悟"
     url: "/portfolio/"
         
-  - title: "Blog Posts"
+  - title: "记录"
     url: "/year-archive/"
     
   - title: "简历"
