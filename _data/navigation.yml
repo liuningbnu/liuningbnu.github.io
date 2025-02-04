@@ -8,16 +8,16 @@ main:
   - title: "论文"
     url: "/publications/"
 
-  - title: "获得"
-    url: "/talks/"    
-
   - title: "教学"
     url: "/teaching/"  
+
+    - title: "活动"
+    url: "/talks/"    
     
   - title: "感悟"
     url: "/portfolio/"
         
-  - title: "记录"
+  - title: "日程"
     url: "/year-archive/"
     
   - title: "简历"
