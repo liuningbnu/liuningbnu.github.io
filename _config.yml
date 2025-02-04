@@ -7,7 +7,7 @@
 # server process.
 # Basic Site Settings
 site_theme               :  "default"
-title                    :  "刘宁"
+title                    :  "刘宁的个人主页"
 title_separator          :  "-"
 name                     :  &name "刘宁"
 description              :  &description "personal description"
