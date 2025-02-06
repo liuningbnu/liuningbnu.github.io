@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: 教学
     values:
       layout: single
       author_profile: true
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: 论文
     values:
       layout: single
       author_profile: true
