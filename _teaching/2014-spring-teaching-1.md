@@ -4,7 +4,7 @@ collection: 教学
 type: "本科生课程"
 permalink: /teaching/2024-fall-teaching-1
 venue: "Scholl of Mathematics and Physics"
-date: 2014-09-02
+date: 2024-09-02
 location: "City, Country"
 ---
 
