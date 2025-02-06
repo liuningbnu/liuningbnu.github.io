@@ -1,9 +1,9 @@
 ---
 title: "教学经历 2"
 collection: 教学
-type: "Workshop"
+type: "本科生课程"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "数理学院"
 date: 2025-02-20
 location: "City, Country"
 ---
