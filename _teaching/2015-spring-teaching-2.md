@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
+title: "教学经历 2"
+collection: 教学
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2025-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2015-02
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+大学物理（上）（51学时）
 
 Heading 1
 ======
