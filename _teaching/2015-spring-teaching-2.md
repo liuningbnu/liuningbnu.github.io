@@ -2,9 +2,9 @@
 title: "教学经历 2"
 collection: 教学
 type: "Workshop"
-permalink: /teaching/2025-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-02
+date: 2025-02-20
 location: "City, Country"
 ---
 
