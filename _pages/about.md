@@ -50,7 +50,7 @@ Hello! I’m Liu Ning, born in 1995, and I’ve been captivated by nature and ph
     font-size: 0.9rem;
     color: #4b5563;
   ">
-    访问统计：<span id="busuanzi_value_site_uv"></span>
+    本站访客数量：<span id="busuanzi_value_site_uv"></span>
   </span>
 </div>
 
