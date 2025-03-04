@@ -43,3 +43,11 @@ Hello! I’m Liu Ning, born in 1995, and I’ve been captivated by nature and ph
 <div style="text-align: center;">
   <img src="/images/obBEC.png" alt="Editing a markdown file for a talk" style="width: 400px; height: auto;">
 </div>
+<div style="margin-top: 30px; text-align: center; color: #666;">
+  <span id="busuanzi_container_site_uv">
+    总访客数：<span id="busuanzi_value_site_uv"></span>
+  </span>
+</div>
+
+<!-- 加载不蒜子统计脚本 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
