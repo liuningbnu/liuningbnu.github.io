@@ -43,7 +43,7 @@ Hello! I’m Liu Ning, born in 1995, and I’ve been captivated by nature and ph
 <!-- 右对齐带装饰线 -->
 <div style="text-align: right; border-top: 1px solid #eee; padding: 15px 0; margin-top: 40px;">
   <span id="busuanzi_container_site_uv" style="font-family: monospace; color: #888;">
-    Visitors: <span id="busuanzi_value_site_uv"></span>
+    总访客数: <span id="busuanzi_value_site_uv"></span>
   </span>
 </div>
 
