@@ -40,10 +40,17 @@ Hello! I’m Liu Ning, born in 1995, and I’ve been captivated by nature and ph
 * 北京师范大学研究生学术创新奖二等奖（2021）
 * 北京师范大学博士研究生学业一等奖学金（2021）
   
-<!-- 浮动右对齐 -->
-<div style="float: right; clear: both; margin: 10px 0 30px 20px;">
-  <span id="busuanzi_container_site_uv" style="display: inline-block; padding: 8px 15px; background: #f8f9fa; border-radius: 4px;">
-    👤 <span id="busuanzi_value_site_uv"></span> 次访问
+<!-- 响应式右对齐 -->
+<div style="text-align: right; margin: 2rem 0;">
+  <span id="busuanzi_container_site_uv" style="
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #f3f4f6;
+    border-radius: 0.25rem;
+    font-size: 0.9rem;
+    color: #4b5563;
+  ">
+    访问统计：<span id="busuanzi_value_site_uv"></span>
   </span>
 </div>
 
