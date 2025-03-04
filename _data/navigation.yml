@@ -1,23 +1,23 @@
 ---
 main:
-  - title: 首页
+  - title: 首页(Home)
     url: /
-  - title: 研究内容与成果
+  - title: 研究内容与成果(Publications)
     url: /publications/
     children:
       - title: 近期论文
         url: /publications/#recent
       - title: 全部列表
         url: /publications/#full
-  - title: 教学
+  - title: 教学(Teaching)
     url: /teaching/
-  - title: 活动
+  - title: 活动(Talks)
     url: /talks/
-  - title: 感悟
+  - title: 感悟(Thought)
     url: /portfolio/
-  - title: 日程
+  - title: 日程(Archive)
     url: /year-archive/
-  - title: 简历
+  - title: 简历(CV)
     url: /cv/
   - title: 导引
     url: /markdown/
