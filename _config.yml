@@ -11,7 +11,7 @@ title                    :  "刘宁的主页"
 title_separator          :  "-"
 name                     :  &name "刘宁"
 description              :  &description "personal description"
-url                      :  "https://liuningbnu.github.io/"
+url                      :  "https://liuningbnu.github.io"
 baseurl                  :  "" 
 repository               :  "academicpages/academicpages.github.io"
 
