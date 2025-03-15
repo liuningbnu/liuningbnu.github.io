@@ -20,10 +20,10 @@ Hello! I’m Liu Ning, born in 1995, and I’ve been captivated by nature and ph
 
 近期新闻 (News)
 ------
-* 2025年3月10日，论文 "Phase behaviors and dynamics of active particle systems in double-well potential" 被 *Physica A: Statistical Mechanics and its Applications*接收 （通讯作者）
-* 2024年10月9日，论文 "力学定律的发展：积分和微分定律的视角" 被《*大学物理*》杂志 接收 （独立作者）
-* 2024年8月29日，论文 "Weak and strong coupling polarons in binary Bose–Einstein condensates" 被 *Physica Scripta* 接收 （独立作者）
-* 2023年9月3日，论文 "Polarons in binary Bose–Einstein condensates" 被 *Journal of Statistical Mechanics: Theory and Experiment*接收 （第一作者）
+* 2025年3月10日，论文 "Phase behaviors and dynamics of active particle systems in double-well potential" 被<font color=Blue> *Physica A: Statistical Mechanics and its Applications*</font>接收 （通讯作者）
+* 2024年10月9日，论文 "力学定律的发展：积分和微分定律的视角" 被<font color=Blue>*大学物理*</font>杂志 接收 （独立作者）
+* 2024年8月29日，论文 "Weak and strong coupling polarons in binary Bose–Einstein condensates" 被<font color=Blue>*Physica Scripta* </font>接收 （独立作者）
+* 2023年9月3日，论文 "Polarons in binary Bose–Einstein condensates" 被 <font color=Blue>*Journal of Statistical Mechanics: Theory and Experiment*</font>接收 （第一作者）
 
 
 
