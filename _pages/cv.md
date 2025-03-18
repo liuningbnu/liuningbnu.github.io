@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 教育背景 (Education)
-------
+==================
 
 * 在2019年9月到2023年12月期间，我继续在北京师范大学物理学系**理论物理**专业攻读博士学位，在此期间研究了<font color=Blue>周期驱动的玻色体系</font>和<font color=Blue>极化子体系</font>，最终获得博士学位.
 * 在2017年9月到2019年7月期间，我在北京师范大学物理学系**理论物理**专业攻读硕士学位，在此期间，初步锻炼了科研能力，随后硕博连读.
@@ -26,56 +26,3 @@ redirect_from:
   East China University of Technology  
   Built a rigorous understanding of physics principles and earned a bachelor’s degree. 
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
