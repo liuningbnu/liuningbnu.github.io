@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+[1] Ning Liu* and Z. C. Tu, Dynamics of momentum distribution and structure factor in a weakly interacting Bose gas with a periodical modulation. *Communications in Theoretical Physics* 72, 125501 (2020).
+
+[2] Ning Liu* and Z. C. Tu. Polarons in binary Bose-Einstein condensates. *Journal of Statistical Mechanics: Theory and Experiment* 2023.9. 093101(2023).
+
+[3] Ning Liu*. Weak and strong coupling polarons in binary Bose-Einstein condensates. *Physica Scripta* 99 095412 (2024).
+
+[4] Lu Chen, Baopi Liu, Ning Liu*. Phase behaviors and dynamics of active particle systems in double-well potential. *Physica A: Statistical Mechanics and its Applications*  (2025).
+
+[5] 刘宁*. 论向心力概念的发展. *大学物理* 42.2. 32 (2023).
+
+[6] 刘宁*. 力学定律的发展：积分和微分定律的视角 *大学物理* (2025).
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
