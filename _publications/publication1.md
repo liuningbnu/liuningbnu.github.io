@@ -1,6 +1,7 @@
 科研论文列表
 ==========
-
+- Ning Liu* and Guodong Cheng. Detecting Collective Excitations in Self-Gravitating Bose-Einstein Condensates via Faraday Waves. arXiv preprint arXiv:2506.18593 (2025).
+- Baopi Liu, Chen Lu, Bowen Jin, and Ning Liu. Morphological Effects on Bacterial Brownian Motion: Validation of a Chiral Two-Body Model. arXiv preprint arXiv:2504.05053 (2025).
 - Lu Chen, Baopi Liu, Ning Liu*. Phase behaviors and dynamics of active particle systems in double-well potential. *<font color=Blue>Physica A: Statistical Mechanics and its Applications</font>* 667 130508 (2025).
 - Ning Liu*. Weak and strong coupling polarons in binary Bose-Einstein condensates. *<font color=Blue>Physica Scripta</font>* 99 095412 (2024).
 - Ning Liu* and Z. C. Tu. Polarons in binary Bose-Einstein condensates. *<font color=Blue>Journal of Statistical Mechanics: Theory and Experiment</font>* 2023.9. 093101(2023).
