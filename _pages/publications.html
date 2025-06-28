@@ -33,44 +33,7 @@ author_profile: true
 {% endif %}
 
 
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <title>文献列表</title>
-    <style>
-        ul {
-            list-style: none;
-            padding-left: 0;
-            font-size: 16px;
-            counter-reset: article-counter;
-        }
-        
-        li {
-            margin-bottom: 15px;
-            text-align: justify;
-            counter-increment: article-counter;
-            position: relative;
-            padding-left: 20px;
-        }
-        
-        li::before {
-            content: "[" counter(article-counter) "]";
-            position: absolute;
-            left: 0;
-            color: black;
-            font-weight: bold;
-        }
-        
-        .journal {
-            color: blue;
-            text-decoration: none;
-        }
-        
-        .journal:hover {
-            text-decoration: underline;
-        }
-    </style>
+
 </head>
 <body>
     <ul>
