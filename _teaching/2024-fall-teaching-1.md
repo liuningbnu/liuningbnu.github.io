@@ -1,5 +1,5 @@
 ---
-title: "教学经历 1"
+title: "2024年秋期"
 collection: 教学
 type: "本科生课程"
 permalink: /teaching/2024-fall-teaching-1
