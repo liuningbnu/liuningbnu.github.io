@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 
-你好！我是刘宁，出生于1995年，自幼热爱自然和物理，曾在读小学时自行制作过天文望远镜. 十多年后在北京师范大学获理论物理博士学位. 目前从事大学物理教学和研究工作，我的研究方向为量子气体，引力理论以及更广泛物理系统的理论.
+你好！我是刘宁，欢迎来到我的主页！我出生于1995年，自幼热爱自然和物理，曾在小学时就自行制作过天文望远镜. 之后在北京师范大学获理论物理博士学位. 目前从事高校物理教学和物理研究工作，主讲课程有量子力学，广义相对论和大学物理等，我的研究方向为量子气体，引力理论以及更广泛物理系统的理论, 我致力于通过更简单的物理理论理解更复杂的物理系统.  
 
-<!--Hello! I’m Liu Ning, born in 1995, and I’ve been captivated by nature and physics since childhood. As an elementary school student, I even built my own astronomical telescope. Years later, I earned my Ph.D. in Theoretical Physics from Beijing Normal University. Currently, I work as physics educator and researcher, focusing on <font color=Blue> quantum gases</font>, <font color=Blue>gravitational theories</font>, and <font color=Blue>theoretical studies of broader physical systems</font>. -->
+我的本科导师是陈童老师，他以深厚的物理功底和淡泊名利的精神深刻地影响了我，奠定了我的物理学基础，他的主页上有关于物理学从本科到研究生各个理论领域的讲义和教材：https://newquanta.com/；我的硕士和博士导师是涂展春老师，他以正直严谨的作风教会了我如何在物理理论中寻求优美的数学形式，锻炼了我的独立科研能力.
+
 
 <div style="text-align: center;">
   <img src="/images/BEC.png" alt="Editing a markdown file for a talk" style="width: 400px; height: auto;">
