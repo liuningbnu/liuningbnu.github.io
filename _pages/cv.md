@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "学术简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,27 +9,115 @@ redirect_from:
 
 {% include base_path %}
 
-教育背景 (Education)
-==================
+<div class="cv-container">
 
+## 教育背景
+{: .cv-section-title}
 
-* 在2019年9月到2023年12月期间，我继续在北京师范大学物理学系**理论物理**专业攻读博士学位，在此期间研究了<font color=Blue>周期驱动的玻色体系</font>和<font color=Blue>玻色极化子体系</font>，最终获得博士学位.
-* 在2017年9月到2019年7月期间，我在北京师范大学物理学系**理论物理**专业攻读硕士学位，在此期间，初步锻炼了科研能力，随后硕博连读.
-* 在2013年9月到2017年7月期间，我在东华理工大学的**物理学**专业就读，在此期间，锻炼了比较扎实的物理学基础，获得学士学位.
-  
-我的硕士和博士导师是涂展春老师，他以正直严谨的作风教会了我如何在物理理论中寻求优美的数学形式，锻炼了我的独立科研能力: https://physicsfaculty.bnu.edu.cn/teacher/337/index.html; 我的本科导师是陈童老师，他以深厚的物理功底和淡泊名利的精神深刻地影响了我，夯实了我的物理学基础，他的主页上有关于物理学从本科到研究生各个理论领域的讲义和教材：https://newquanta.com/.
+<div class="cv-item">
+  <div class="cv-header">
+    <h3>北京师范大学物理学系</h3>
+    <span class="cv-date">2019.09 - 2023.12</span>
+  </div>
+  <p class="cv-degree">理论物理专业 博士学位</p>
+  <ul class="cv-details">
+    <li>研究方向：<span class="highlight">周期驱动的玻色体系</span>和<span class="highlight">玻色极化子体系</span></li>
+    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春教授</a></li>
+  </ul>
+</div>
 
+<div class="cv-item">
+  <div class="cv-header">
+    <h3>北京师范大学物理学系</h3>
+    <span class="cv-date">2017.09 - 2019.07</span>
+  </div>
+  <p class="cv-degree">理论物理专业 硕士学位 (硕博连读)</p>
+</div>
 
-* **Ph.D. in Theoretical Physics** (Sep 2019 – Dec 2023)  
-  Beijing Normal University, Department of Physics  
-  Researched periodically-driven Bose systems and polaron systems. Awarded a doctorate upon completion.  
-* **M.S. in Theoretical Physics** (Sep 2017 – Jul 2019)  
-  Beijing Normal University, Department of Physics  
-  Developed foundational research skills and transitioned directly into the Ph.D. program. 
-* **B.S. in Physics** (Sep 2013 – Jul 2017)  
-  East China University of Technology  
-  Built a rigorous understanding of physics principles and earned a bachelor’s degree. 
+<div class="cv-item">
+  <div class="cv-header">
+    <h3>东华理工大学</h3>
+    <span class="cv-date">2013.09 - 2017.07</span>
+  </div>
+  <p class="cv-degree">物理学专业 学士学位</p>
+  <ul class="cv-details">
+    <li>导师：<a href="https://newquanta.com/" target="_blank">陈童博士</a></li>
+  </ul>
+</div>
 
- My master's and doctoral supervisor was Professor Tu Zhan chun. He taught me to seek elegant mathematical forms in physical theories with his upright and rigorous style, and he also trained my ability to conduct independent scientific research: https://physicsfaculty.bnu.edu.cn/teacher/337/index.html; My undergraduate supervisor was Dr. Chen Tong. He has deeply influenced me with his profound knowledge in physics and his indifference to fame and wealth. Under his guidance, I have built a solid foundation in physics. On his homepage https://newquanta.com/ , there are lecture notes and textbooks on various theoretical fields of physics from undergraduate to graduate level.
+<div class="cv-mentor">
+  <h3>导师简介</h3>
+  <p><strong>涂展春教授</strong>：以正直严谨的作风教会我如何在物理理论中寻求优美的数学形式，培养了我的独立科研能力。</p>
+  <p><strong>陈童博士</strong>：以深厚的物理功底和淡泊名利的精神深刻影响了我，夯实了我的物理学基础。他的主页提供了从本科到研究生各个理论领域的优质<a href="https://newquanta.com/" target="_blank">物理学讲义和教材</a>。</p>
+</div>
 
+</div>
 
+<style>
+.cv-container {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cv-section-title {
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+.cv-item {
+  margin-bottom: 25px;
+  padding-left: 15px;
+  border-left: 3px solid #eee;
+}
+
+.cv-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.cv-date {
+  color: #7f8c8d;
+  font-size: 0.9em;
+}
+
+.cv-degree {
+  font-weight: bold;
+  color: #2c3e50;
+  margin: 5px 0;
+}
+
+.cv-details {
+  margin: 10px 0 0 20px;
+  padding: 0;
+}
+
+.cv-details li {
+  margin-bottom: 5px;
+}
+
+.highlight {
+  color: #2980b9;
+  font-weight: 500;
+}
+
+.cv-mentor {
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+</style>
