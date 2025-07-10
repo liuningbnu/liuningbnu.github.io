@@ -72,9 +72,6 @@ redirect_from:
   <p>我出生于1995年，自幼热爱自然和物理，曾在小学时就自行制作过天文望远镜。之后在北京师范大学获理论物理博士学位。目前从事高校物理教学和物理研究工作，主讲课程有量子力学，广义相对论和大学物理等，我的研究方向为量子气体，引力理论以及更广泛物理系统的理论，我致力于通过更简单的物理理论理解更复杂的物理系统。</p>
 </div>
 
-<div class="center-image">
-  <img src="/images/BEC.png" alt="玻色-爱因斯坦凝聚研究图示">
-</div>
 
 <div class="content-box">
   <h2 style="margin-top: 0;">近期新闻</h2>
@@ -99,6 +96,11 @@ redirect_from:
     <p>论文 "Polarons in binary Bose–Einstein condensates" 被<span class="journal-name">Journal of Statistical Mechanics: Theory and Experiment</span>接收（第一作者）</p>
   </div>
 </div>
+
+<div class="center-image">
+  <img src="/images/BEC.png" alt="玻色-爱因斯坦凝聚研究图示">
+</div>
+
 
 <div class="visitor-counter">
   <span id="busuanzi_container_site_uv">本站访客数量：<span id="busuanzi_value_site_uv"></span></span>
