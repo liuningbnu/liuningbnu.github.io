@@ -7,9 +7,9 @@
 # server process.
 # Basic Site Settings
 site_theme               :  "default"
-title                    :  "刘宁的主页"
+title                    :  "刘宁（Ning Liu）的主页"
 title_separator          :  "-"
-name                     :  &name "刘宁"
+name                     :  &name "刘宁(Ning Liu)"
 description              :  &description "personal description"
 url                      :  "https://liuningbnu.github.io"
 baseurl                  :  "" 
@@ -22,7 +22,7 @@ author:
   # Biographic information
   avatar           :  "profile.png"
   bio              :     ""
-  name             :  "刘宁"
+  name             :  "刘宁(Ning Liu)"
   pronouns         :  ""# example: "she/her"  
   employer         :   "北京师范大学 (BNU)"
   email            :   "ningliu@mail.bnu.edu.cn" 
