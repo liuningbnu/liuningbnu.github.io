@@ -9,6 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.cv-section-title {
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.cv-item {
+  margin-bottom: 30px;
+  padding-left: 15px;
+  border-left: 3px solid #eee;
+}
+
+.cv-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 5px;
+}
+
+.cv-date {
+  color: #7f8c8d;
+  font-size: 0.9em;
+}
+
+.cv-degree {
+  font-weight: bold;
+  color: #2c3e50;
+  margin: 5px 0 10px 0;
+}
+
+.cv-details {
+  margin: 10px 0 0 20px;
+  padding: 0;
+}
+
+.cv-details li {
+  margin-bottom: 8px;
+}
+
+.highlight {
+  color: #2980b9;
+  font-weight: 500;
+}
+
+.cv-mentor {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 40px;
+}
+
+.cv-mentor h3 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+</style>
+
 <div class="cv-container">
 
 ## 教育背景
@@ -47,77 +115,8 @@ redirect_from:
 
 <div class="cv-mentor">
   <h3>导师简介</h3>
-  <p><strong>涂展春教授</strong>：以正直严谨的作风教会我如何在物理理论中寻求优美的数学形式，培养了我的独立科研能力。</p>
-  <p><strong>陈童博士</strong>：以深厚的物理功底和淡泊名利的精神深刻影响了我，夯实了我的物理学基础。他的主页提供了从本科到研究生各个理论领域的优质<a href="https://newquanta.com/" target="_blank">物理学讲义和教材</a>。</p>
+  <p>我的硕士和博士导师是<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春老师</a>，他以正直严谨的作风教会了我如何在物理理论中寻求优美的数学形式，锻炼了我的独立科研能力。</p>
+  <p>我的本科导师是<a href="https://newquenta.com/" target="_blank">陈童老师</a>，他以深厚的物理功底和淡泊名利的精神深刻地影响了我，夯实了我的物理学基础。他的主页上有关于物理学从本科到研究生各个理论领域的<a href="https://newquanta.com/" target="_blank">讲义和教材</a>。</p>
 </div>
 
 </div>
-
-<style>
-.cv-container {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.6;
-  color: #333;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.cv-section-title {
-  border-bottom: 2px solid #3498db;
-  padding-bottom: 5px;
-  margin-top: 30px;
-}
-
-.cv-item {
-  margin-bottom: 25px;
-  padding-left: 15px;
-  border-left: 3px solid #eee;
-}
-
-.cv-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-}
-
-.cv-date {
-  color: #7f8c8d;
-  font-size: 0.9em;
-}
-
-.cv-degree {
-  font-weight: bold;
-  color: #2c3e50;
-  margin: 5px 0;
-}
-
-.cv-details {
-  margin: 10px 0 0 20px;
-  padding: 0;
-}
-
-.cv-details li {
-  margin-bottom: 5px;
-}
-
-.highlight {
-  color: #2980b9;
-  font-weight: 500;
-}
-
-.cv-mentor {
-  background-color: #f8f9fa;
-  padding: 15px;
-  border-radius: 5px;
-  margin-top: 30px;
-}
-
-a {
-  color: #3498db;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-</style>
