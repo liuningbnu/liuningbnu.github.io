@@ -36,7 +36,7 @@ redirect_from:
 <div class="cv-item">
   <div class="cv-header">
     <h3>北京师范大学物理学系</h3>
-    <span class="cv-date">2019.09 - 2023.12</span>
+    <span class="cv-date">2017.09 - 2023.12</span>
   </div>
   <p class="cv-degree">理论物理专业 硕士生&博士学位</p>
   <ul class="cv-details">
