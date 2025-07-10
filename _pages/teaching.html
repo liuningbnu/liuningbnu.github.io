@@ -1,13 +1,76 @@
 ---
 layout: archive
-title: "教学"
+title: "教学经历"
 permalink: /teaching/
 author_profile: true
 ---
-2024年秋季
 
-2025年春季
 {% include base_path %}
+
+<style>
+  .teaching-timeline {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-left: 30px;
+  }
+  
+  .teaching-timeline::before {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #3498db;
+  }
+  
+  .teaching-item {
+    position: relative;
+    margin-bottom: 30px;
+    padding-left: 30px;
+  }
+  
+  .teaching-item::before {
+    content: '';
+    position: absolute;
+    left: 6px;
+    top: 5px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #3498db;
+    border: 2px solid white;
+  }
+  
+  .teaching-year {
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 5px;
+  }
+  
+  .teaching-course {
+    margin: 0;
+    padding: 0;
+  }
+</style>
+
+<div class="teaching-timeline">
+  <div class="teaching-item">
+    <div class="teaching-year">2025年秋季</div>
+    <p class="teaching-course">量子力学（本科）（64学时）</p>
+  </div>
+  
+  <div class="teaching-item">
+    <div class="teaching-year">2025年春季</div>
+    <p class="teaching-course">大学物理（上）（51学时）</p>
+  </div>
+  
+  <div class="teaching-item">
+    <div class="teaching-year">2024年秋季</div>
+    <p class="teaching-course">大学物理（64学时）</p>
+  </div>
+</div>
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
