@@ -41,7 +41,7 @@ redirect_from:
   <p class="cv-degree">理论物理专业 博士学位</p>
   <ul class="cv-details">
     <li>研究方向：超冷原子物理，统计物理等</li>
-    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春教授</a></li>
+    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a></li>
   </ul>
 </div>
 
@@ -52,7 +52,7 @@ redirect_from:
   </div>
   <p class="cv-degree">理论物理专业 硕士生 </p>
    <ul class="cv-details">
-    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春教授</a></li>
+    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a></li>
   </ul>
 </div>
 
