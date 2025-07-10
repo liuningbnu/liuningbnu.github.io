@@ -115,7 +115,7 @@ a:hover {
 
 <div class="cv-mentor">
   <h3>导师简介</h3>
-  <p>我的硕士和博士导师是<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春老师</a>，他以正直严谨的作风教会了我如何在物理理论中寻求优美的数学形式，锻炼了我的独立科研能力。我的本科导师是<a href="https://newquenta.com/" target="_blank">陈童老师</a>，他以深厚的物理功底和淡泊名利的精神深刻地影响了我，夯实了我的物理学基础。他的主页上有关于物理学从本科到研究生各个理论领域的<a href="https://newquanta.com/" target="_blank">讲义和教材</a>。</p>
+  <p>我的硕士和博士导师是<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春老师</a>，他以正直严谨的作风教会了我如何在物理理论中寻求优美的数学形式，锻炼了我的独立科研能力. 我的本科导师是<a href="https://newquenta.com/" target="_blank">陈童老师</a>，他以深厚的物理功底和淡泊名利的精神深刻地影响了我，夯实了我的物理学基础。他的主页上有关于物理学从本科到研究生各个理论领域的讲义和教材. </p>
 </div>
 
 </div>
