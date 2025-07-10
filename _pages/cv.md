@@ -38,21 +38,9 @@ redirect_from:
     <h3>北京师范大学物理学系</h3>
     <span class="cv-date">2019.09 - 2023.12</span>
   </div>
-  <p class="cv-degree">理论物理专业 博士学位</p>
+  <p class="cv-degree">理论物理专业 硕士生&博士学位</p>
   <ul class="cv-details">
-    <li>研究方向：超冷原子物理，统计物理等</li>
-    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a></li>
-  </ul>
-</div>
-
-<div class="cv-item">
-  <div class="cv-header">
-    <h3>北京师范大学物理学系</h3>
-    <span class="cv-date">2017.09 - 2019.07</span>
-  </div>
-  <p class="cv-degree">理论物理专业 硕士生 </p>
-   <ul class="cv-details">
-    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a></li>
+    <li>研究方向：超冷原子物理，统计物理等</li>  导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a>
   </ul>
 </div>
 
