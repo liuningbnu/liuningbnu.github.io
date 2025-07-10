@@ -33,11 +33,9 @@ redirect_from:
   }
   
   .research-image img {
-    max-width: 60%;
+    max-width: 75%; /* 调整为原尺寸的75% */
     height: auto;
     border-radius: 4px;
-    border: 1px solid #eee;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
   
   .visitor-counter {
@@ -95,8 +93,8 @@ redirect_from:
   <p>我的研究聚焦于利用玻色-爱因斯坦凝聚体(BEC)这一高度可控的量子系统，来模拟和探究更广泛的物理现象。通过精确调控BEC中的相互作用、拓扑结构和非平衡动力学，我们能够：</p>
   <ul>
     <li>模拟凝聚态系统中的准粒子行为（如极化子、声子）</li>
+     <li>模拟引力系统中的集体行为</li>
     <li>研究量子多体系统的非平衡相变</li>
-    <li>探索拓扑量子物态的形成机制</li>
     <li>验证统计物理基本理论在量子领域的表现</li>
   </ul>
   <p>这种"量子模拟"方法使我们能够在纯净的实验环境中，获得对复杂物理系统本质的新洞察。</p>
@@ -104,7 +102,7 @@ redirect_from:
 
 <div class="research-image">
   <img src="/images/BEC.png" alt="研究关键词云图：玻色-爱因斯坦凝聚、量子模拟、极化子、非平衡动力学、拓扑量子态">
-  <p style="font-size: 0.9em; color: #666;">研究关键词云图：展示了当前研究的主要方向和概念框架</p>
+  <p style="font-size: 0.9em; color: #666;">研究关键词云图</p>
 </div>
 
 <div class="visitor-counter">
