@@ -108,7 +108,7 @@ a:hover {
 
 <div class="cv-timeline">
 
-<h2 style="border-bottom: 2px solid #3498db; padding-bottom: 8px; margin-bottom: 30px;">教育背景</h2>
+<h2 style="margin-bottom: 25px;">教育背景</h2>  <!-- 已移除下划线样式 -->
 
 <div class="cv-item">
   <div class="cv-header">
