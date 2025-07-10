@@ -79,8 +79,8 @@ a:hover {
 
 <div class="cv-container">
 
-## 教育背景
-{: .cv-section-title}
+ 教育背景
+----------
 
 <div class="cv-item">
   <div class="cv-header">
