@@ -51,7 +51,8 @@ redirect_from:
     <span class="cv-date">2017.09 - 2019.07</span>
   </div>
   <p class="cv-degree">理论物理专业 硕士生 </p>
-   <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春教授</a></li>
+   <ul class="cv-details">
+    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春教授</a></li>
   </ul>
 </div>
 
@@ -63,7 +64,7 @@ redirect_from:
   <p class="cv-degree">物理学专业 学士学位</p>
   <ul class="cv-details">
     <li>研究方向：经典力学，量子场论</li>
-    <li>导师：<a href="https://newquanta.com/" target="_blank">陈童博士</a></li>
+    <li>导师：<a href="https://newquanta.com/" target="_blank">陈童 博士</a></li>
   </ul>
 </div>
 
