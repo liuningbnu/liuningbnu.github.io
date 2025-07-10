@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "学术简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,43 +10,121 @@ redirect_from:
 {% include base_path %}
 
 <style>
-.cv-container {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.6;
-  color: #333;
+.cv-timeline {
+  position: relative;
   max-width: 800px;
   margin: 0 auto;
+  padding-left: 30px;
 }
 
-.cv-section-title {
-  border-bottom: 2px solid #3498db;
-  padding-bottom: 5px;
-  margin-top: 10px;  /* 减少顶部间距 */
-  margin-bottom: 20px;
-  font-size: 1.5em;  /* 调整标题大小 */
+.cv-timeline::before {
+  content: '';
+  position: absolute;
+  left: 15px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #3498db;
 }
 
-/* 其他样式保持不变... */
+.cv-item {
+  position: relative;
+  margin-bottom: 40px;
+  padding-left: 30px;
+}
+
+.cv-item::before {
+  content: '';
+  position: absolute;
+  left: 6px;
+  top: 5px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #3498db;
+  border: 3px solid white;
+  z-index: 1;
+}
+
+.cv-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 8px;
+}
+
+.cv-date {
+  color: #7f8c8d;
+  font-size: 0.95em;
+  font-weight: bold;
+}
+
+.cv-degree {
+  font-weight: bold;
+  color: #2c3e50;
+  margin: 5px 0 10px 0;
+}
+
+.cv-details {
+  margin: 10px 0 0 20px;
+  padding: 0;
+}
+
+.cv-details li {
+  margin-bottom: 8px;
+  list-style-type: disc;
+}
+
+.cv-mentor {
+  background-color: #f8f9fa;
+  padding: 25px;
+  border-radius: 8px;
+  margin-top: 50px;
+  border-left: 4px solid #3498db;
+}
+
+.cv-mentor h3 {
+  margin-top: 0;
+  color: #2c3e50;
+  font-size: 1.3em;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  background-color: #f0f7ff;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
 </style>
 
-<div class="cv-container">
+<div class="cv-timeline">
 
-<h2 class="cv-section-title">教育背景</h2>  <!-- 修改为单一标题 -->
+<h2 style="border-bottom: 2px solid #3498db; padding-bottom: 8px; margin-bottom: 30px;">教育背景</h2>
 
 <div class="cv-item">
   <div class="cv-header">
-    <h3>北京师范大学物理学系</h3>
+    <h3 style="margin: 0;">北京师范大学物理学系</h3>
     <span class="cv-date">2017.09 - 2023.12</span>
   </div>
   <p class="cv-degree">理论物理专业 硕士生&博士学位</p>
   <ul class="cv-details">
-    <li>研究方向：超冷原子物理，统计物理等</li>  导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a>
+    <li>研究方向：超冷原子物理，统计物理等</li>
+    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a></li>
   </ul>
 </div>
 
 <div class="cv-item">
   <div class="cv-header">
-    <h3>东华理工大学</h3>
+    <h3 style="margin: 0;">东华理工大学</h3>
     <span class="cv-date">2013.09 - 2017.07</span>
   </div>
   <p class="cv-degree">物理学专业 学士学位</p>
