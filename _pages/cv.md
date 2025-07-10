@@ -89,7 +89,7 @@ a:hover {
   </div>
   <p class="cv-degree">理论物理专业 博士学位</p>
   <ul class="cv-details">
-    <li>研究方向：<span class="highlight">周期驱动的玻色体系</span>和<span class="highlight">玻色极化子体系</span></li>
+    <li>研究方向：<span class="highlight">周期驱动的玻色原子系统</span>和<span class="highlight">玻色气体中的极化子</span></li>
     <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春教授</a></li>
   </ul>
 </div>
