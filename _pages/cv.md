@@ -79,8 +79,7 @@ a:hover {
 
 <div class="cv-container">
 
- 教育背景
--
+
 
 <div class="cv-item">
   <div class="cv-header">
@@ -89,7 +88,7 @@ a:hover {
   </div>
   <p class="cv-degree">理论物理专业 博士学位</p>
   <ul class="cv-details">
-    <li>研究方向：<span class="highlight">周期驱动的玻色原子系统</span>和<span class="highlight">玻色气体中的极化子</span></li>
+    <li>研究方向：超冷原子物理，统计物理等
     <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春教授</a></li>
   </ul>
 </div>
@@ -109,6 +108,7 @@ a:hover {
   </div>
   <p class="cv-degree">物理学专业 学士学位</p>
   <ul class="cv-details">
+     <li>研究方向：经典力学，量子场论
     <li>导师：<a href="https://newquanta.com/" target="_blank">陈童博士</a></li>
   </ul>
 </div>
