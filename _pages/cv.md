@@ -50,7 +50,7 @@ redirect_from:
     <h3>北京师范大学物理学系</h3>
     <span class="cv-date">2017.09 - 2019.07</span>
   </div>
-  <p class="cv-degree">理论物理专业 硕士生 (硕博连读)</p>
+  <p class="cv-degree">理论物理专业 硕士生 </p>
    <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春教授</a></li>
   </ul>
 </div>
