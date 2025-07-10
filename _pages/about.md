@@ -36,7 +36,7 @@ redirect_from:
   
   .center-image {
     text-align: center;
-    margin: 25px 0;
+    margin: 15px 0;
   }
   
   .center-image img {
