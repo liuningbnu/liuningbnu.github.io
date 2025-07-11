@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "教育背景"
+title: "教育经历"
 permalink: /cv/
 author_profile: true
 redirect_from:
