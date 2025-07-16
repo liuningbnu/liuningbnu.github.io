@@ -99,6 +99,10 @@ redirect_from:
     
     <p>这种"量子模拟"方法使我们能够在纯净的实验环境中，获得对复杂物理系统本质的新洞察。</p>
   </div>
+
+    <div class="research-image">
+      <img src="/images/BEC.png" alt="研究关键词云图">
+    </div>
 </div>
 
 <div class="section">
