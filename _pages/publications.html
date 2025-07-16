@@ -6,56 +6,33 @@ author_profile: true
 ---
 
 <style>
-  .pub-timeline {
-    position: relative;
+  .pub-container {
     max-width: 900px;
     margin: 0 auto;
-    padding-left: 30px;
-  }
-  
-  .pub-timeline::before {
-    content: '';
-    position: absolute;
-    left: 6px;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: #3498db;
-  }
-  
-  .pub-item {
-    position: relative;
-    margin-bottom: 25px;
-    padding-left: 30px;
-  }
-  
-  .pub-item::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 7px;
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    background: #3498db;
-    border: 2px solid white;
   }
   
   .pub-year {
     font-weight: bold;
     color: #2c3e50;
-    font-size: 1.1em;
-    margin-bottom: 5px;
+    font-size: 1.2em;
+    margin: 1.8rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .pub-item {
+    margin-bottom: 1.5rem;
+    padding-left: 0;
+    position: relative;
   }
   
   .pub-content {
-    margin: 0;
+    margin: 0.5rem 0;
     text-align: justify;
     line-height: 1.6;
   }
   
   .pub-journal {
-    color: #3498db;
     font-style: italic;
   }
   
@@ -65,8 +42,14 @@ author_profile: true
   
   .scholar-link {
     display: block;
-    margin-bottom: 30px;
+    margin-bottom: 1.8rem;
     text-align: center;
+    font-size: 1.1rem;
+  }
+  
+  .pub-index {
+    font-weight: 600;
+    margin-right: 0.5rem;
   }
 </style>
 
@@ -74,52 +57,68 @@ author_profile: true
   <div class="scholar-link">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<div class="pub-timeline">
+<div class="pub-container">
 
+  <div class="pub-year">2025</div>
+  
   <div class="pub-item">
-    <div class="pub-year">2025</div>
     <p class="pub-content">
-      [1] Baopi Liu, Chen Lu, Bowen Jin, and <span class="pub-author">Ning Liu</span>. Morphological Effects on Bacterial Brownian Motion: Validation of a Chiral Two-Body Model. 
+      <span class="pub-index">[1]</span> Baopi Liu, Chen Lu, Bowen Jin, and <span class="pub-author">Ning Liu</span>. Morphological Effects on Bacterial Brownian Motion: Validation of a Chiral Two-Body Model. 
       <span class="pub-journal">arXiv preprint arXiv:2504.05053</span>.
     </p>
+  </div>
+  
+  <div class="pub-item">
     <p class="pub-content">
-      [2] <span class="pub-author">Ning Liu*</span> and Guodong Cheng. Detecting Collective Excitations in Self-Gravitating Bose-Einstein Condensates via Faraday Waves. 
+      <span class="pub-index">[2]</span> <span class="pub-author">Ning Liu*</span> and Guodong Cheng. Detecting Collective Excitations in Self-Gravitating Bose-Einstein Condensates via Faraday Waves. 
       <span class="pub-journal">arXiv preprint arXiv:2506.18593</span>.
     </p>
+  </div>
+  
+  <div class="pub-item">
     <p class="pub-content">
-      [3] Lu Chen, Baopi Liu, <span class="pub-author">Ning Liu*</span>. Phase behaviors and dynamics of active particle systems in double-well potential. 
+      <span class="pub-index">[3]</span> Lu Chen, Baopi Liu, <span class="pub-author">Ning Liu*</span>. Phase behaviors and dynamics of active particle systems in double-well potential. 
       <span class="pub-journal">Physica A: Statistical Mechanics and its Applications 667, 130508</span>.
     </p>
+  </div>
+  
+  <div class="pub-item">
     <p class="pub-content">
-      [4] <span class="pub-author">刘宁*</span>. 力学定律的发展：积分和微分定律的视角. 
+      <span class="pub-index">[4]</span> <span class="pub-author">刘宁*</span>. 力学定律的发展：积分和微分定律的视角. 
       <span class="pub-journal">大学物理 44(4), 61</span>.
     </p>
   </div>
 
+  <div class="pub-year">2024</div>
+  
   <div class="pub-item">
-    <div class="pub-year">2024</div>
     <p class="pub-content">
-      [5] <span class="pub-author">Ning Liu*</span>. Weak and strong coupling polarons in binary Bose-Einstein condensates.  
+      <span class="pub-index">[5]</span> <span class="pub-author">Ning Liu*</span>. Weak and strong coupling polarons in binary Bose-Einstein condensates.  
       <span class="pub-journal">Physica Scripta 99, 095412</span>.
     </p>
   </div>
 
+  <div class="pub-year">2023</div>
+  
   <div class="pub-item">
-    <div class="pub-year">2023</div>
     <p class="pub-content">
-      [6] <span class="pub-author">Ning Liu*</span> and Z. C. Tu. Polarons in binary Bose-Einstein condensates. 
+      <span class="pub-index">[6]</span> <span class="pub-author">Ning Liu*</span> and Z. C. Tu. Polarons in binary Bose-Einstein condensates. 
       <span class="pub-journal">Journal of Statistical Mechanics: Theory and Experiment 2023(9), 093101</span>.
     </p>
+  </div>
+  
+  <div class="pub-item">
     <p class="pub-content">
-      [7] <span class="pub-author">刘宁*</span>. 论向心力概念的发展. 
+      <span class="pub-index">[7]</span> <span class="pub-author">刘宁*</span>. 论向心力概念的发展. 
       <span class="pub-journal">大学物理 42(2), 32</span>.
     </p>
   </div>
 
+  <div class="pub-year">2020</div>
+  
   <div class="pub-item">
-    <div class="pub-year">2020</div>
     <p class="pub-content">
-      [8] <span class="pub-author">Ning Liu*</span> and Z. C. Tu, Dynamics of momentum distribution and structure factor in a weakly interacting Bose gas with a periodical modulation. 
+      <span class="pub-index">[8]</span> <span class="pub-author">Ning Liu*</span> and Z. C. Tu, Dynamics of momentum distribution and structure factor in a weakly interacting Bose gas with a periodical modulation. 
       <span class="pub-journal">Communications in Theoretical Physics 72, 125501</span>.
     </p>
   </div>
