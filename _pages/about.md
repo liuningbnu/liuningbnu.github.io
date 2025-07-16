@@ -62,16 +62,12 @@ redirect_from:
 </style>
 
 <div class="section">
-  <h2 class="section-title">关于我</h2>
+  <h2 class="section-title">个人简介</h2>
   
   <div class="about-content">
-    <p>你好！我是刘宁，欢迎来到我的主页！我出生于1995年，自幼热爱自然和物理，曾在小学时就自行制作过天文望远镜。之后获理论物理博士学位。目前从事高校物理教学和物理研究工作，主讲课程有量子力学，广义相对论和大学物理等。</p>
+    <p>你好！我是刘宁，欢迎来到我的主页！我出生于1995年，自幼热爱自然和物理，曾在小学时就自行制作过天文望远镜。在北京师范大学物理学系获理论物理博士学位。目前在高校从事物理研究和教学工作，主讲课程有量子力学，广义相对论和大学物理等。</p>
     
-    <div class="research-image">
-      <img src="/images/BEC.png" alt="研究关键词云图">
-    </div>
-    
-    <p>我的研究聚焦于利用玻色-爱因斯坦凝聚体(BEC)这一高度可控的量子系统，来模拟和探究更广泛的物理现象。通过精确调控BEC中的相互作用、拓扑结构和非平衡动力学，我们能够：</p>
+     <p>我的研究聚焦于利用玻色-爱因斯坦凝聚体(BEC)这一高度可控的量子系统，来模拟和探究更广泛的物理现象。通过精确调控BEC中的相互作用、拓扑结构和非平衡动力学，我们能够：</p>
     
     <ul style="padding-left: 1.8rem; margin-bottom: 1.2rem;">
       <li>模拟凝聚态系统中的准粒子行为（如极化子、声子）</li>
@@ -83,6 +79,11 @@ redirect_from:
     <p>这种"量子模拟"方法使我们能够在纯净的实验环境中，获得对复杂物理系统本质的新洞察。</p>
   </div>
 </div>
+    <div class="research-image">
+      <img src="/images/BEC.png" alt="研究关键词云图">
+    </div>
+    
+   
 
 <div class="section">
   <h2 class="section-title">近期发表</h2>
