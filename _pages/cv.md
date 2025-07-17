@@ -20,7 +20,7 @@ redirect_from:
   padding: 1.5rem;
   background-color: #f8f9fa;
   border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05); /* 添加分号 */
 }
 
 .school-header {
@@ -87,10 +87,10 @@ h2 {
 
   <div class="edu-card">
     <div class="school-header">
-      <h3 class="school-name">北京师范大学</h3>
+      <h3 class="school-name">北京师范大学物理学系</h3> <!-- 保持系名完整 -->
       <span class="edu-date">2017.09 - 2023.12</span>
     </div>
-    <p class="degree-info">理论物理专业 硕士生 & 博士学位</p>
+    <p class="degree-info">理论物理专业 硕士生 &amp; 博士学位</p> <!-- 修正 & 符号 -->
     <ul class="edu-details">
       <li>研究方向：超冷原子物理，统计物理等</li>
       <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a></li>
