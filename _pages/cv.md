@@ -87,7 +87,7 @@ h2 {
 
   <div class="edu-card">
     <div class="school-header">
-      <h3 class="school-name">北京师范大学物理学系</h3>
+      <h3 class="school-name">北京师范大学</h3>
       <span class="edu-date">2017.09 - 2023.12</span>
     </div>
     <p class="degree-info">理论物理专业 硕士生&博士学位</p>
