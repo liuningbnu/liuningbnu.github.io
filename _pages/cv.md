@@ -90,7 +90,7 @@ h2 {
       <h3 class="school-name">北京师范大学</h3>
       <span class="edu-date">2017.09 - 2023.12</span>
     </div>
-    <p class="degree-info">理论物理专业 硕士生&博士学位</p>
+    <p class="degree-info">理论物理专业 硕士生 & 博士学位</p>
     <ul class="edu-details">
       <li>研究方向：超冷原子物理，统计物理等</li>
       <li>导师：<a href="https://physicsfaculty.bnu.edu.cn/teacher/337/index.html" target="_blank">涂展春 教授</a></li>
