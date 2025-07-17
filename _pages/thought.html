@@ -10,14 +10,14 @@ author_profile: true
     position: relative;
     max-width: 800px;
     margin: 0 auto;
-    padding-left: 30px;
+    padding-left: 34px; /* 增加左侧内边距确保对齐 */
   }
   
   /* 时间线竖线 */
   .thought-container::before {
     content: '';
     position: absolute;
-    left: 6px;
+    left: 17px; /* 精确调整竖线位置 */
     top: 0;
     bottom: 0;
     width: 2px;
@@ -30,17 +30,18 @@ author_profile: true
     padding-left: 15px;
   }
   
-  /* 感悟条目的圆点 */
+  /* 精确对齐的圆点 */
   .thought-item::before {
     content: "";
     position: absolute;
-    left: -4px;
-    top: 6px;
+    left: -17px; /* 精确调整圆点位置 */
+    top: 8px; /* 垂直居中 */
     width: 14px;
     height: 14px;
     border-radius: 50%;
     background: #3498db;
     border: 2px solid white;
+    box-sizing: border-box;
   }
   
   .thought-date {
