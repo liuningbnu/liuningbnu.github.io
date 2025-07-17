@@ -59,7 +59,7 @@ redirect_from:
 .cv-mentor-section h3 {
   margin-top: 0;
   color: #2c3e50;
-  font-size: 1.3em;
+  font-size: 1.1em;
   padding-bottom: 8px;
   border-bottom: 2px solid #3498db;
 }
