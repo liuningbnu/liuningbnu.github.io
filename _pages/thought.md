@@ -7,47 +7,26 @@ author_profile: true
 
 <style>
   .thought-container {
-    position: relative;
     max-width: 800px;
     margin: 0 auto;
-    padding-left: 34px;
-  }
-  
-  .thought-container::before {
-    content: '';
-    position: absolute;
-    left: 17px;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: #3498db;
   }
   
   .thought-item {
-    position: relative;
     margin-bottom: 1.8rem;
-    padding-left: 15px;
-  }
-  
-  .thought-item::before {
-    content: "";
-    position: absolute;
-    left: -17px;
-    top: 8px;
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
-    background: #3498db;
-    border: 2px solid white;
-    box-sizing: border-box;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   }
   
   .thought-date {
     font-weight: 600;
     color: #2c3e50;
     display: block;
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.8rem;
     font-size: 1.05rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid #eaeaea;
   }
   
   .thought-content {
