@@ -12,6 +12,7 @@ redirect_from:
     margin-bottom: 2.2rem;
   }
   
+  /* 与CV页面一致的蓝色标题分割线 */
   .section-title {
     margin: 0 0 1.2rem 0;
     font-size: 1.6rem;
@@ -39,15 +40,39 @@ redirect_from:
     display: block;
   }
   
+  /* 保留时间线设计 */
   .news-container {
     position: relative;
-    margin-top: 1.3rem;
+    padding-left: 20px;
+    margin-top: 1.5rem;
+  }
+  
+  .news-container::before {
+    content: '';
+    position: absolute;
+    left: 6px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #3498db;
   }
   
   .news-item {
-    padding: 0.7rem 0;
+    position: relative;
+    padding: 0.8rem 0 0.8rem 30px;
     margin-bottom: 0.5rem;
-    border-bottom: 1px solid #eaeaea;
+  }
+  
+  .news-item::before {
+    content: "";
+    position: absolute;
+    left: -1px;
+    top: 20px;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: #3498db;
+    border: 2px solid white;
   }
   
   .news-date {
