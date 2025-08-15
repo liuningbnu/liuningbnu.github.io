@@ -38,6 +38,35 @@ author_profile: true
 </style>
 
 <div class="thought-container">
+
+    <div class="thought-item">
+    <span class="thought-date">2025年8月15日</span>
+    <div class="thought-content">
+
+    前段时间我给电脑清灰，把一些原件卸了下来，又装了回去，感觉这一过程还是挺好玩的，非常沉浸。最近我发现我越来越想动手了。上半年我带学生做大学物理实验，学生都走了，我还在不断地重复做，一直搞到了晚上10点多，直到楼管过来催了就停止了。昨天有朋友问我如果不搞物理了想去干啥，我觉得我可能想当个维修电子产品的维修工。
+    </div>
+  </div>
+
+<div class="thought-container">
+
+    <div class="thought-item">
+    <span class="thought-date">2025年8月12日</span>
+    <div class="thought-content">
+彭罗斯的文章读了之后让我感觉这才是真正的科研。现在的科研都太技术性了，缺乏思想性。就像我前段时间买了一本中文的散射理论的书，我发现几乎没有motivation，全都是技术，根本读不下去。之后如果没有特别强烈的口碑，中文的专著可能我就不再买了，因为买一本发现读不下去，买一本读不下去。
+ 
+    </div>
+  </div>
+
+<div class="thought-container">
+
+    <div class="thought-item">
+    <span class="thought-date">2025年8月5日</span>
+    <div class="thought-content">
+当下面临的很多非平衡的问题，能不能通过一种力学变分原理的类似思路，也就是热力学的变分理论来解决？比如引入惯性力的概念和虚位移的概念能够得出达朗贝尔原理，这样的话能够化动为静，能够将一个动力学问题转化成一个静力学问题。那么对于热力学当中的平衡态和非平衡态能否定义类似的原理呢，能否也用这种“化动为静”的办法，将平衡态物理学和非平衡态物理学统一起来。
+ 
+    </div>
+  </div>
+    
   <div class="thought-item">
     <span class="thought-date">2025年4月25日</span>
     <div class="thought-content">
