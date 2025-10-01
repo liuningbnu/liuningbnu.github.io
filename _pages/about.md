@@ -84,7 +84,9 @@ redirect_from:
   <h2 class="section-title">个人简介</h2>
   
   <div class="about-content">
-    <p>你好！我是刘宁，欢迎来到我的主页！我出生于1995年，自幼热爱自然和物理，曾在小学时就自行制作过天文望远镜。在北京师范大学物理学系获理论物理博士学位。目前在高校从事物理教学和研究工作，主讲课程有量子力学，广义相对论和大学物理等。我的研究聚焦于利用玻色-爱因斯坦凝聚体(BEC)这一高度可控的量子系统，来模拟和探究更广泛的物理现象。通过精确调控BEC中的相互作用、拓扑结构和非平衡动力学，我们能够：</p>
+    <p>Hello! I'm Liu Ning. Welcome to my page! I was born in 1995 and have loved nature and physics since childhood—I even built my own telescope in elementary school. I earned a Ph.D. in Theoretical Physics from the Department of Physics at Beijing Normal University. Currently, I work as a university teacher and researcher, teaching courses such as Quantum Mechanics, General Relativity, and College Physics. My research focuses on using Bose–Einstein condensates (BEC)—a highly controllable quantum system—to simulate and explore a wide range of physical phenomena by precisely manipulating interactions, topological structures, and non-equilibrium dynamics within BEC.
+      
+      你好！我是刘宁，欢迎来到我的主页！我出生于1995年，自幼热爱自然和物理，曾在小学时就自行制作过天文望远镜。在北京师范大学物理学系获理论物理博士学位。目前在高校从事物理教学和研究工作，主讲课程有量子力学，广义相对论和大学物理等。我的研究聚焦于利用玻色-爱因斯坦凝聚体(BEC)这一高度可控的量子系统，来模拟和探究更广泛的物理现象。通过精确调控BEC中的相互作用、拓扑结构和非平衡动力学，我们能够：</p>
     <ul style="padding-left: 1.8rem; margin: 1.2rem 0;">
       <li>模拟凝聚态系统中的准粒子行为（如极化子、声子）</li>
       <li>模拟引力系统中的集体行为</li>
