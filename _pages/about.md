@@ -1,101 +1,35 @@
----
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-<style>
-  .section {
-    margin-bottom: 2.5rem;
-  }
-  
-  .section-title {
-    margin: 0 0 1.5rem 0;
-    font-size: 1.8rem;
-    color: #2c3e50;
-    padding-bottom: 0.6rem;
-    border-bottom: 2px solid #3498db;
-  }
-  
-  .about-content {
-    line-height: 1.7;
-  }
-  
-  .research-image {
-    text-align: center;
-    margin: 1.8rem auto;
-    max-width: 75%;
-  }
-  
-  .research-image img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 4px;
-    display: block; /* 修复图片显示问题 */
-  }
-  
-  .news-container {
-    position: relative;
-    padding-left: 20px;
-    margin-top: 1.5rem;
-  }
-  
-  .news-item {
-    position: relative;
-    padding: 0.8rem 0 0.8rem 30px;
-    margin-bottom: 0.5rem;
-    border-left: 2px solid #e0e0e0;
-  }
-  
-  .news-item:before {
-    content: "";
-    position: absolute;
-    left: -8px;
-    top: 20px;
-    width: 14px;
-    height: 14px;
-    border-radius: 50%;
-    background: #3498db;
-  }
-  
-  .news-date {
-    font-weight: 600;
-    color: #2c3e50;
-    display: block;
-    margin-bottom: 0.3rem;
-  }
-  
-  .journal-name {
-    font-style: italic; /* 期刊改为斜体 */
-  }
-  
-  .visitor-counter {
-    text-align: right;
-    margin: 2rem 0;
-    font-size: 0.95rem;
-    color: #5a6c7d;
-  }
-</style>
-
 <div class="section">
-  <h2 class="section-title">个人简介(Profile)</h2>
-  
-  <div class="about-content">
-    <p>Hello! I'm Liu Ning. Welcome to my page! I was born in 1995 and have loved nature and physics since childhood—I even built my own telescope in elementary school. I earned a Ph.D. in Theoretical Physics from the Department of Physics at Beijing Normal University. Currently, I work as a university teacher and researcher, teaching courses such as Quantum Mechanics, General Relativity, and College Physics. My research focuses on using Bose–Einstein condensates (BEC)—a highly controllable quantum system—to simulate and explore a wide range of physical phenomena by precisely manipulating interactions, topological structures, and non-equilibrium dynamics within BEC.</p>
-      
-      <p> 你好！我是刘宁，欢迎来到我的主页！我出生于1995年，自幼热爱自然和物理，曾在小学时就自行制作过天文望远镜。在北京师范大学物理学系获理论物理博士学位。目前在高校从事物理教学和研究工作，主讲课程有量子力学，广义相对论和大学物理等。我的研究聚焦于利用玻色-爱因斯坦凝聚体(BEC)这一高度可控的量子系统，来模拟和探究更广泛的物理现象。通过精确调控BEC中的相互作用、拓扑结构和非平衡动力学，我们能够：</p>
-    <ul style="padding-left: 1.8rem; margin: 1.2rem 0;">
-      <li>模拟凝聚态系统中的准粒子行为（如极化子、声子）</li>
-      <li>模拟引力系统中的集体行为</li>
-      <li>研究量子多体系统的非平衡相变</li>
-      <li>验证统计物理基本理论在量子领域的表现</li>
-    </ul>
-    <p>这种"量子模拟"方法使我们能够在纯净的实验环境中，获得对复杂物理系统本质的新洞察。</p>
-  </div>
+  <h2 class="section-title">Profile / 个人简介</h2>
 
+  <div class="about-content">
+    <p>
+      Hello! I'm Liu Ning, born in 1995.  
+      欢迎来到我的主页！自幼痴迷自然与物理，小学时就亲手磨镜片、组装过一台属于自己的天文望远镜。
+    </p>
+
+    <p>
+      I got my Ph.D. in Theoretical Physics from Beijing Normal University and now teach & do research at a university.  
+      目前主讲《量子力学》《广义相对论》《大学物理》等课程，同时利用玻色–爱因斯坦凝聚体（BEC）这一高度可控的量子平台，把“实验室”变成“宇宙模拟器”。
+    </p>
+
+    <p>
+      By fine-tuning interactions, topology and non-equilibrium dynamics in BEC, we can  
+      通过精确调控 BEC 中的相互作用、拓扑结构与非平衡动力学，我们能够：
+    </p>
+
+    <ul style="padding-left:1.8rem; margin:1.2rem 0;">
+      <li>emulate quasiparticles like polarons and phonons / 模拟凝聚态里的极化子、声子；</li>
+      <li>mimic collective gravitational behaviour / 模拟引力系统的集体行为；</li>
+      <li>track quantum many-body out-of-equilibrium phase transitions / 追踪量子多体非平衡相变；</li>
+      <li>test fundamental statistical-physics predictions in the deep quantum regime / 在量子域中验证统计物理的基本预言。</li>
+    </ul>
+
+    <p>
+      Such “quantum simulations” give us a clean window into the essence of otherwise intractable problems.  
+      这种“量子模拟”方法，让我们在最纯净的实验环境里，重新洞察复杂物理系统的本质。
+    </p>
+  </div>
+</div>
     <div class="research-image">
       <img src="/images/BEC.png" alt="研究关键词云图">
     </div>
