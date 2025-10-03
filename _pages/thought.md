@@ -38,6 +38,13 @@ author_profile: true
 </style>
 
 <div class="thought-container">
+<div class="thought-item">
+    <span class="thought-date">2025年10月3日</span>
+    <div class="thought-content">
+最近在教量子力学的时候有一个想法，既然我们在很早的时候就可以引入最小作用量原理去教力学，那是不是也可以在教量子力学的时候一开始就引入路径积分的办法，毕竟路径积分虽然算起来有些时候比较复杂，但是理解起来相当直观。我们现有的讲量子力学都是从哈密顿量开始引出薛定谔方程，那么能不能从拉格朗日量出发，构建量子力学。感觉从拉氏量开始做出经典和量子类比，会更容易让人接受。前提要从一开始避免繁杂的路径积分运算，先给出定性的分析。当然，量子力学的形式理论不止路径积分，如何安排好路径积分，波动力学和矩阵力学，充分发挥各个形式理论的优点也是个值得探究的问题。
+    
+    </div>
+  </div>
 
     <div class="thought-item">
     <span class="thought-date">2025年8月15日</span>
