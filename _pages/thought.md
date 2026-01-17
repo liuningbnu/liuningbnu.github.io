@@ -38,6 +38,24 @@ author_profile: true
 </style>
 
 <div class="thought-container">
+
+    <div class="thought-item">
+    <span class="thought-date">2025年1月17日</span>
+    <div class="thought-content">
+
+最近在玻色液体中考虑了MOND理论，取得了一些结果。个人觉得比较新，毕竟之前没有人考虑过这样的问题。但是具体这些结果究竟有没有用，有没有什么潜在的可能的价值还得看同行评议的情况。PRD已经送审了，但让我惊讶的是PRD好像只有一个审稿人。PRD好就好在每一步都会有邮件提醒，比PRA好多了。最近也正在准确另外一篇文章，可以导出MOND修正的具体集体激发的表达式。可能先从PRL试试，之后再看看其他期刊。发文章还是要多投多试，不能畏难。其实我一开始并没有想着投PRL，因为都没投过，感觉应该达不到这个层次。但周围人的鼓励让我决定试一试，感谢。这也是我第一次写letter性质的文章。
+    </div>
+  </div>
+
+    <div class="thought-item">
+    <span class="thought-date">2026年1月17日</span>
+    <div class="thought-content">
+这学期上的量子力学课，虽然总体来说还不错，主要是有几个认真的学生，但即使是学的好的效果也还是不尽如人意。主要原因是因为绝大多数的学生基础太差，即使是想学好的同学，也因为畏难情绪没有勇气学。所以明年再讲量子力学的时候会先补充一些物理基础和数学基础。但是这必然会导致量子力学本身的内容被压缩，毕竟课时数量太少了。不过即使压缩，也得把基础补充上，要不然效果更差。这就需要挑选出最重要的部分，忽略一些次要的内容。
+    </div>
+  </div>
+
+
+  
 <div class="thought-item">
     <span class="thought-date">2025年10月3日</span>
     <div class="thought-content">
