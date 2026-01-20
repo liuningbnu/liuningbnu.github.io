@@ -54,7 +54,13 @@ author_profile: true
     </div>
   </div>
 
-
+<div class="thought-item">
+    <span class="thought-date">2025年12月28日</span>
+    <div class="thought-content">
+感觉玻尔兹曼真是一个神奇的物理学家，但是他的理论又过于晦涩。在那个原子还不确定是否存在的年代就提出了统计物理理论，给出了熵的微观解释。玻尔兹曼正式将“概率”引入到了物理学中，这跟麦克斯韦的思想是不同的。麦克斯韦给出的分布的确是属于概率理论的，但仍然只是一个唯象的理论，而玻尔兹曼的理论本质思想是有些物理概念必须要用概率解释。玻尔兹曼的贡献直接促进了普朗克的“量子”概念，而且还为量子力学的概率解释提供了很好的经典样板，后者经常被人们所忽略。
+    
+    </div>
+  </div>
   
 <div class="thought-item">
     <span class="thought-date">2025年10月3日</span>
