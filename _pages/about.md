@@ -85,7 +85,7 @@ redirect_from:
   
   <div class="about-content">
       
-      <p> 你好！我是刘宁，欢迎来到我的主页。我是北京师范大学理论物理学博士。目前在安庆师范大学物理与天文空间学院从事物理教学和研究工作，主讲《量子力学》课程，兼讲《广义相对论》，《大学物理》和《物理学史》等课程。我的研究主要聚焦于量子力学的基础理论，玻色-爱因斯坦凝聚和引力理论等方向。</p>
+      <p> 你好！我是刘宁，欢迎来到我的主页。本人出生于1995年初，自幼喜欢物理学，后于2023年末在北京师范大学获理论物理学博士学位。目前在安庆师范大学物理与天文空间学院从事物理学的教学和研究工作，主讲《量子力学》课程，以及《广义相对论》（研究生课程），《大学物理》和《物理学史》等课程。研究方向主要聚焦于量子力学的基础理论，玻色-爱因斯坦凝聚和引力理论等。</p>
   </div>
   
     <div class="research-image">
@@ -98,23 +98,28 @@ redirect_from:
   
   <div class="news-container">
     <div class="news-item">
+      <span class="news-date">2026年4月15日</span>
+      论文 "Morphological effects on bacterial Brownian motion: Validation of a chiral two-body model" 在<span class="journal-name">Physica A: Statistical Mechanics and its Applications</span>上发表
+    </div>
+    
+    <div class="news-item">
       <span class="news-date">2025年3月10日</span>
-      论文 "Phase behaviors and dynamics of active particle systems in double-well potential" 被<span class="journal-name">Physica A: Statistical Mechanics and its Applications</span>接收（通讯作者）
+      论文 "Phase behaviors and dynamics of active particle systems in double-well potential" 被<span class="journal-name">Physica A: Statistical Mechanics and its Applications</span>接收
     </div>
     
     <div class="news-item">
       <span class="news-date">2024年10月9日</span>
-      论文 "力学定律的发展：积分和微分定律的视角" 被<span class="journal-name">《大学物理》</span>杂志接收（独立作者）
+      论文 "力学定律的发展：积分和微分定律的视角" 被<span class="journal-name">《大学物理》</span>杂志接收
     </div>
     
     <div class="news-item">
       <span class="news-date">2024年8月29日</span>
-      论文 "Weak and strong coupling polarons in binary Bose–Einstein condensates" 被<span class="journal-name">Physica Scripta</span>接收（独立作者）
+      论文 "Weak and strong coupling polarons in binary Bose–Einstein condensates" 被<span class="journal-name">Physica Scripta</span>接收
     </div>
     
     <div class="news-item">
       <span class="news-date">2023年9月3日</span>
-      论文 "Polarons in binary Bose–Einstein condensates" 被<span class="journal-name">Journal of Statistical Mechanics: Theory and Experiment</span>接收（第一作者）
+      论文 "Polarons in binary Bose–Einstein condensates" 被<span class="journal-name">Journal of Statistical Mechanics: Theory and Experiment</span>接收
     </div>
   </div>
 </div>
