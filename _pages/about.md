@@ -85,7 +85,7 @@ redirect_from:
   
   <div class="about-content">
       
-      <p> 你好！我是刘宁，欢迎来到我的主页。本人出生于1995年初，自幼喜欢物理学，后于2023年末在北京师范大学获理论物理学博士学位。目前在安庆师范大学物理与天文空间学院从事物理学的教学和研究工作，主讲《量子力学》课程，以及《广义相对论》（研究生课程），《大学物理》和《物理学史》等课程。研究方向主要聚焦于量子力学的基础理论，玻色-爱因斯坦凝聚和引力理论等。</p>
+      <p> 你好！我是刘宁，欢迎来到我的主页。本人出生于1995年初，自幼喜欢物理学，后于北京师范大学获理论物理学博士学位。目前在安庆师范大学物理与天文空间学院从事物理学的教学和研究工作，主讲《量子力学》课程，以及《广义相对论》（研究生课程），《大学物理》和《物理学史》等课程。研究方向主要聚焦于量子力学的基础理论，玻色-爱因斯坦凝聚和引力理论等，特别是本人最近提出了量子最小约束原理（arXiv:2604.26642），作为一种微分变分原理可导出与薛定谔方程等价的流体动力学方程，在研究量子耗散和几何约束等问题上具备优势。</p>
   </div>
   
     <div class="research-image">
@@ -97,6 +97,13 @@ redirect_from:
   <h2 class="section-title">近期发表</h2>
   
   <div class="news-container">
+
+    <div class="news-item">
+      <span class="news-date">2026年4月30日</span>
+      论文 arXiv:2604.26642，"Least constraint approach to non-relativistic quantum mechanics"发布于arXiv
+    </div>
+
+    
     <div class="news-item">
       <span class="news-date">2026年4月15日</span>
       论文 "Morphological effects on bacterial Brownian motion: Validation of a chiral two-body model" 在<span class="journal-name">Physica A: Statistical Mechanics and its Applications</span>上发表
