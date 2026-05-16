@@ -39,6 +39,11 @@ author_profile: true
 
 <div class="thought-container">
 
+<div class="thought-item">
+    <span class="thought-date">2026年5月16日</span>
+    <div class="thought-content">
+    前面几个月收到了论文审稿的一些反馈，几个审稿人都表示对于MOND在地面上能够实现有点过于乐观了，确实是这样的，这个问题还应该好好想想。但其中一个审稿人提供的思路蛮好的，已经按照这个审稿人的意见改了。最近思考的时候发现了新的方向，能导出一些好像还可以的结果。做理论的还是不能局限于某一个模型，某一个现象，而是应该多学多了解。最近开始想做约瑟夫森效应的问题，虽然似乎得到了新结果，但还需要进一步思考和验证。论文审稿这种东西似乎完全看运气，碰到一个好的审稿人，能够提出建设性意见的就会好很多，拒了也没关系。重要的不是接收，而是能否探究清楚问题。这才是关键。总想着让自己的稿子发表的心态很不好。欲速则不达。
+
     <div class="thought-item">
     <span class="thought-date">2025年1月17日</span>
     <div class="thought-content">
