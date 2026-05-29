@@ -100,7 +100,7 @@ redirect_from:
 
     <div class="news-item">
       <span class="news-date">2026年5月29日</span>
-      论文 "Anisotropic dispersion relation of ultralight Bose gases in modified Newtonian dynamics" 在<span class="journal-name">Physics Letters A</span>上发表
+      论文 "Anisotropic dispersion relation of ultralight Bose gases in modified Newtonian dynamics" 被<span class="journal-name">Physics Letters A</span>接收
     </div>
     
     <div class="news-item">
