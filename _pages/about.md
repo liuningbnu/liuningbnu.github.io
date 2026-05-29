@@ -99,6 +99,11 @@ redirect_from:
   <div class="news-container">
 
     <div class="news-item">
+      <span class="news-date">2026年5月29日</span>
+      论文 "Anisotropic dispersion relation of ultralight Bose gases in modified Newtonian dynamics" 在<span class="journal-name">Physics Letters A</span>上发表
+    </div>
+    
+    <div class="news-item">
       <span class="news-date">2026年4月30日</span>
       论文 arXiv:2604.26642，"Least constraint approach to non-relativistic quantum mechanics"发布于arXiv
     </div>
