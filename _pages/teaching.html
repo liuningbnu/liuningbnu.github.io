@@ -93,9 +93,11 @@ author_profile: true
   </div>
   <!-- 新增：将下载链接单独放在课程名称下方，另起一行 -->
   <div style="margin: 0.2rem 0 0.4rem 0; font-size: 0.9rem;">
-    <a href="/files/QM_Lecture1.pdf" download="量子力学_第一讲.pdf">📄 下载讲义：第一讲</a>
-    <br>
-    <a href="/files/QM_Lecture2.pdf" download="量子力学_第二讲.pdf">📄 下载讲义：第二讲</a>
+   <span class="course-download">
+  <a href="{{ base_path }}/assets/files/QM_Lecture1.pdf" download="量子力学_第一讲.pdf">📄 第一讲</a>
+  <span style="margin:0 6px;color:#ccc;">|</span>
+  <a href="{{ base_path }}/assets/files/QM_Lecture2.pdf" download="量子力学_第二讲.pdf">📄 第二讲</a>
+</span>
   </div>
 </div>
   
