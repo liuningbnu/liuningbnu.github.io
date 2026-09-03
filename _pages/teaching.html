@@ -38,10 +38,13 @@ author_profile: true
     font-size: 1.0rem;
     color: #34495e;
     display: flex;
+    flex-wrap: wrap;        /* 允许换行，适配小屏 */
+    align-items: baseline;
   }
   
   .course-name {
     flex: 1;
+    min-width: 200px;
   }
   
   .teaching-detail {
@@ -49,6 +52,21 @@ author_profile: true
     color: #5a6c7d;
     min-width: 85px;
     text-align: right;
+  }
+
+  /* 新增样式：讲义下载链接 */
+  .course-download {
+    margin-left: 1rem;
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+  .course-download a {
+    color: #2980b9;
+    text-decoration: none;
+    border-bottom: 1px dashed #2980b9;
+  }
+  .course-download a:hover {
+    border-bottom: 1px solid #2980b9;
   }
   
   .student-note {
@@ -64,8 +82,6 @@ author_profile: true
   }
 </style>
 
-
-
 <div class="teaching-container">
   <div class="teaching-section">
     <div class="teaching-header">
@@ -74,9 +90,12 @@ author_profile: true
     <div class="teaching-course">
       <span class="course-name">《量子力学》</span>
       <span class="teaching-detail">68学时</span>
+      <!-- 新增：讲义下载链接 -->
+      <span class="course-download">
+        <a href="/files/QM_Lecture1.pdf" download="量子力学_第一讲.pdf">📄 下载讲义（第一讲）</a>
+      </span>
     </div>
   </div>
-
   
   <div class="teaching-section">
     <div class="teaching-header">
@@ -86,26 +105,28 @@ author_profile: true
       <span class="course-name">《广义相对论》（研究生）</span>
       <span class="teaching-detail">32学时</span>
     </div>
-       <div class="teaching-course">
+    <div class="teaching-course">
       <span class="course-name">《大学物理（1）》</span>
       <span class="teaching-detail">51学时理论+18学时实验</span>
     </div>
   </div>
   
   <div class="teaching-section">
-  <div class="teaching-header">
-    <span class="teaching-year">2025年秋季</span>
-  </div>
-  <div class="teaching-course">
-    <span class="course-name">《量子力学》（本科）</span>
-    <span class="teaching-detail">68学时</span>
-  </div>
-
+    <div class="teaching-header">
+      <span class="teaching-year">2025年秋季</span>
+    </div>
+    <div class="teaching-course">
+      <span class="course-name">《量子力学》（本科）</span>
+      <span class="teaching-detail">68学时</span>
+      <!-- 可选：如果您也想为2025年秋季加讲义，可同样添加 -->
+      <!-- <span class="course-download"><a href="/files/QM_Lecture1.pdf" download>📄 下载讲义</a></span> -->
+    </div>
     <div class="teaching-course">
       <span class="course-name">《物理学史》</span>
       <span class="teaching-detail">34学时</span>
     </div>
-    
+  </div>
+  
   <div class="teaching-section">
     <div class="teaching-header">
       <span class="teaching-year">2025年春季</span>
