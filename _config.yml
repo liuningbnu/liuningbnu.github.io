@@ -313,5 +313,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-include:
-  - files
+
