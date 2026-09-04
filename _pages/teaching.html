@@ -38,7 +38,7 @@ author_profile: true
     font-size: 1.0rem;
     color: #34495e;
     display: flex;
-    flex-wrap: wrap;        /* 允许换行，适配小屏 */
+    flex-wrap: wrap;
     align-items: baseline;
   }
   
@@ -54,17 +54,23 @@ author_profile: true
     text-align: right;
   }
 
-  /* 新增样式：讲义下载链接 */
+  /* 讲义下载链接 */
   .course-download {
-    margin-left: 1rem;
+    margin: 0.2rem 0 0.4rem 0;
+    padding-left: 0;
     font-size: 0.9rem;
-    white-space: nowrap;
   }
+
+  .download-item {
+    margin: 0.35rem 0;
+  }
+
   .course-download a {
     color: #2980b9;
     text-decoration: none;
     border-bottom: 1px dashed #2980b9;
   }
+
   .course-download a:hover {
     border-bottom: 1px solid #2980b9;
   }
@@ -80,85 +86,133 @@ author_profile: true
     border: 1px solid #e0e0e0;
     border-radius: 4px;
   }
+
+  /* 手机端适配 */
+  @media screen and (max-width: 600px) {
+    .teaching-course {
+      display: block;
+    }
+
+    .course-name {
+      display: inline;
+    }
+
+    .teaching-detail {
+      display: inline;
+      margin-left: 0.5rem;
+      text-align: left;
+    }
+  }
 </style>
 
+
 <div class="teaching-container">
- <div class="teaching-section">
-  <div class="teaching-header">
-    <span class="teaching-year">2026年秋季</span>
-  </div>
-  <div class="teaching-course">
-    <span class="course-name">《量子力学》</span>
-    <span class="teaching-detail">68学时</span>
-  </div>
-  <!-- 新增：将下载链接单独放在课程名称下方，另起一行 -->
-  <div style="margin: 0.2rem 0 0.4rem 0; font-size: 0.9rem;">
-   <div class="course-download">
-  <div class="download-item">
-    <a href="{{ base_path }}/files/QM_Lecture1.pdf"
-       download="量子力学_第一讲.pdf">
-      📄 第一讲
-    </a>
+
+  <!-- 2026年秋季 -->
+  <div class="teaching-section">
+
+    <div class="teaching-header">
+      <span class="teaching-year">2026年秋季</span>
+    </div>
+
+    <div class="teaching-course">
+      <span class="course-name">《量子力学》</span>
+      <span class="teaching-detail">68学时</span>
+    </div>
+
+    <!-- 讲义下载链接 -->
+    <div class="course-download">
+
+      <div class="download-item">
+        <a href="{{ base_path }}/files/QM_Lecture1.pdf"
+           download="量子力学_第一讲.pdf">
+          📄 第一讲
+        </a>
+      </div>
+
+      <div class="download-item">
+        <a href="{{ base_path }}/files/QM_Lecture2.pdf"
+           download="量子力学_第二讲.pdf">
+          📄 第二讲
+        </a>
+      </div>
+
+    </div>
+
   </div>
 
-  <div class="download-item">
-    <a href="{{ base_path }}/files/QM_Lecture2.pdf"
-       download="量子力学_第二讲.pdf">
-      📄 第二讲
-    </a>
-  </div>
-</div>
-  
+
+  <!-- 2026年春季 -->
   <div class="teaching-section">
+
     <div class="teaching-header">
       <span class="teaching-year">2026年春季</span>
     </div>
+
     <div class="teaching-course">
       <span class="course-name">《广义相对论》（研究生）</span>
       <span class="teaching-detail">32学时</span>
     </div>
+
     <div class="teaching-course">
       <span class="course-name">《大学物理（1）》</span>
       <span class="teaching-detail">51学时理论+18学时实验</span>
     </div>
+
   </div>
-  
+
+
+  <!-- 2025年秋季 -->
   <div class="teaching-section">
+
     <div class="teaching-header">
       <span class="teaching-year">2025年秋季</span>
     </div>
+
     <div class="teaching-course">
       <span class="course-name">《量子力学》（本科）</span>
       <span class="teaching-detail">68学时</span>
-      <!-- 可选：如果您也想为2025年秋季加讲义，可同样添加 -->
-      <!-- <span class="course-download"><a href="/files/QM_Lecture1.pdf" download>📄 下载讲义</a></span> -->
     </div>
+
     <div class="teaching-course">
       <span class="course-name">《物理学史》</span>
       <span class="teaching-detail">34学时</span>
     </div>
+
   </div>
-  
+
+
+  <!-- 2025年春季 -->
   <div class="teaching-section">
+
     <div class="teaching-header">
       <span class="teaching-year">2025年春季</span>
     </div>
+
     <div class="teaching-course">
       <span class="course-name">《大学物理（上）》</span>
       <span class="teaching-detail">51学时理论+18学时实验</span>
     </div>
+
   </div>
-  
+
+
+  <!-- 2024年秋季 -->
   <div class="teaching-section">
+
     <div class="teaching-header">
       <span class="teaching-year">2024年秋季</span>
     </div>
+
     <div class="teaching-course">
       <span class="course-name">《大学物理》</span>
       <span class="teaching-detail">68学时</span>
     </div>
+
   </div>
+
 </div>
+
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
