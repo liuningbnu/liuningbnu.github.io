@@ -106,7 +106,7 @@ h2 {
     </div>
     <p class="degree-info">物理学专业 学士学位</p>
     <ul class="edu-details">
-      <li>研究方向：经典力学，量子场论</li>
+      <li>研究方向：经典力学系统稳定性的拓扑，量子场论中对称性破缺</li>
       <li>导师：<a href="https://newquanta.com/" target="_blank">陈童 博士</a></li>
     </ul>
   </div>
